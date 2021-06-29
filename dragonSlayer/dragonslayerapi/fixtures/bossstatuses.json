@@ -1,0 +1,30 @@
+[
+    {
+        "model": "dragonslayerapi.bossstatuses",
+        "pk": 1,
+        "fields": {
+            "name": "Not Attempted"
+        }
+    },
+    {
+        "model": "dragonslayerapi.bossstatuses",
+        "pk": 2,
+        "fields": {
+            "name": "Attempted but no Kill"
+        }
+    },
+    {
+        "model": "dragonslayerapi.bossstatuses",
+        "pk": 3,
+        "fields": {
+            "name": "Killed but but still challenginh"
+        }
+    },
+    {
+        "model": "dragonslayerapi.bossstatuses",
+        "pk": 4,
+        "fields": {
+            "name": "On Farm"
+        }
+    }
+]

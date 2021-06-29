@@ -1,0 +1,65 @@
+[
+    {
+        "model": "dragonslayerapi.playerclasses",
+        "pk": 1,
+        "fields": {
+            "name": "Warrior"
+        }
+    },
+    {
+        "model": "dragonslayerapi.playerclasses",
+        "pk": 2,
+        "fields": {
+            "name": "Rogue"
+        }
+    },
+    {
+        "model": "dragonslayerapi.playerclasses",
+        "pk": 3,
+        "fields": {
+            "name": "Hunter"
+        }
+    },
+    {
+        "model": "dragonslayerapi.playerclasses",
+        "pk": 4,
+        "fields": {
+            "name": "Mage"
+        }
+    },
+    {
+        "model": "dragonslayerapi.playerclasses",
+        "pk": 5,
+        "fields": {
+            "name": "Warlock"
+        }
+    },
+    {
+        "model": "dragonslayerapi.playerclasses",
+        "pk": 6,
+        "fields": {
+            "name": "Priest"
+        }
+    },
+    {
+        "model": "dragonslayerapi.playerclasses",
+        "pk": 7,
+        "fields": {
+            "name": "Paladin"
+        }
+    },
+    {
+        "model": "dragonslayerapi.playerclasses",
+        "pk": 8,
+        "fields": {
+            "name": "Druid"
+        }
+    },
+    {
+        "model": "dragonslayerapi.playerclasses",
+        "pk": 9,
+        "fields": {
+            "name": "Shaman"
+        }
+    }
+]
