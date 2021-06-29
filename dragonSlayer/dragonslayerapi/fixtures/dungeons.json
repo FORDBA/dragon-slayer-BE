@@ -1,0 +1,51 @@
+[
+    {
+        "model": "dragonslayerapi.dungeons",
+        "pk": 1,
+        "fields": {
+            "name": "Ahn'Qiraj - 40"
+        }
+    },
+    {
+        "model": "dragonslayerapi.dungeons",
+        "pk": 2,
+        "fields": {
+            "name": "Blackwing Lair"
+        }
+    },
+    {
+        "model": "dragonslayerapi.dungeons",
+        "pk": 3,
+        "fields": {
+            "name": "Molton Core"
+        }
+    },
+    {
+        "model": "dragonslayerapi.dungeons",
+        "pk": 4,
+        "fields": {
+            "name": "Onyxia's Lair"
+        }
+    },
+    {
+        "model": "dragonslayerapi.dungeons",
+        "pk": 5,
+        "fields": {
+            "name": "Zul'Gurub"
+        }
+    },
+    {
+        "model": "dragonslayerapi.dungeons",
+        "pk": 6,
+        "fields": {
+            "name": "Ahn'Qiraj - 20"
+        }
+    },
+    {
+        "model": "dragonslayerapi.dungeons",
+        "pk": 7,
+        "fields": {
+            "name": "Naxxramas"
+        }
+    }
+]

@@ -1,0 +1,65 @@
+[
+    {
+        "model": "dragonslayerapi.professions",
+        "pk": 1,
+        "fields": {
+            "name": "Tailoring"
+        }
+    },
+    {
+        "model": "dragonslayerapi.professions",
+        "pk": 2,
+        "fields": {
+            "name": "Enchanting"
+        }
+    },
+    {
+        "model": "dragonslayerapi.professions",
+        "pk": 3,
+        "fields": {
+            "name": "Skinning"
+        }
+    },
+    {
+        "model": "dragonslayerapi.professions",
+        "pk": 4,
+        "fields": {
+            "name": "Leatherworking"
+        }
+    },
+    {
+        "model": "dragonslayerapi.professions",
+        "pk": 5,
+        "fields": {
+            "name": "Herbalism"
+        }
+    },
+    {
+        "model": "dragonslayerapi.professions",
+        "pk": 6,
+        "fields": {
+            "name": "Alchemy"
+        }
+    },
+    {
+        "model": "dragonslayerapi.professions",
+        "pk": 7,
+        "fields": {
+            "name": "Mining"
+        }
+    },
+    {
+        "model": "dragonslayerapi.professions",
+        "pk": 8,
+        "fields": {
+            "name": "Blacksmithing"
+        }
+    },
+    {
+        "model": "dragonslayerapi.professions",
+        "pk": 9,
+        "fields": {
+            "name": "Engineering"
+        }
+    }
+]
