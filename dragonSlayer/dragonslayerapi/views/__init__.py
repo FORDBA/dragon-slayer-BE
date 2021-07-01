@@ -4,3 +4,6 @@ from .dungeons import DungeonViewSet
 from .playerclasses import PlayerClassViewSet
 from .bossstatuses import BossStatusViewSet
 from .professions import ProfessionViewSet
+from .races import RaceViewSet
+from .ranks import RankViewSet
+from .roles import RoleViewSet

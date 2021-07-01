@@ -1,0 +1,51 @@
+[
+    {
+        "model": "dragonslayerapi.ranks",
+        "pk": 1,
+        "fields": {
+            "name": "Guild Master"
+        }
+    },
+    {
+        "model": "dragonslayerapi.ranks",
+        "pk": 2,
+        "fields": {
+            "name": "Guild Officer"
+        }
+    },
+    {
+        "model": "dragonslayerapi.ranks",
+        "pk": 3,
+        "fields": {
+            "name": "Class Officer"
+        }
+    },
+    {
+        "model": "dragonslayerapi.ranks",
+        "pk": 4,
+        "fields": {
+            "name": "Veteran"
+        }
+    },
+    {
+        "model": "dragonslayerapi.ranks",
+        "pk": 5,
+        "fields": {
+            "name": "Member"
+        }
+    },
+    {
+        "model": "dragonslayerapi.ranks",
+        "pk": 6,
+        "fields": {
+            "name": "Alt"
+        }
+    },
+    {
+        "model": "dragonslayerapi.ranks",
+        "pk": 7,
+        "fields": {
+            "name": "Recruit"
+        }
+    }
+]

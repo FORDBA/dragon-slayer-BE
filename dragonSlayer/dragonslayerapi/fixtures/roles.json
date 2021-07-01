@@ -1,0 +1,23 @@
+[
+    {
+        "model": "dragonslayerapi.roles",
+        "pk": 1,
+        "fields": {
+            "name": "Tank"
+        }
+    },
+    {
+        "model": "dragonslayerapi.roles",
+        "pk": 2,
+        "fields": {
+            "name": "Healer"
+        }
+    },
+    {
+        "model": "dragonslayerapi.roles",
+        "pk": 3,
+        "fields": {
+            "name": "DPS"
+        }
+    }
+]

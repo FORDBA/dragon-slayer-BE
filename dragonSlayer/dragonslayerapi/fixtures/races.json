@@ -1,0 +1,58 @@
+[
+    {
+        "model": "dragonslayerapi.races",
+        "pk": 1,
+        "fields": {
+            "name": "Human"
+        }
+    },
+    {
+        "model": "dragonslayerapi.races",
+        "pk": 2,
+        "fields": {
+            "name": "Night Elf"
+        }
+    },
+    {
+        "model": "dragonslayerapi.races",
+        "pk": 3,
+        "fields": {
+            "name": "Dwarf"
+        }
+    },
+    {
+        "model": "dragonslayerapi.races",
+        "pk": 4,
+        "fields": {
+            "name": "Gnome"
+        }
+    },
+    {
+        "model": "dragonslayerapi.races",
+        "pk": 5,
+        "fields": {
+            "name": "Orc"
+        }
+    },
+    {
+        "model": "dragonslayerapi.races",
+        "pk": 6,
+        "fields": {
+            "name": "Troll"
+        }
+    },
+    {
+        "model": "dragonslayerapi.races",
+        "pk": 7,
+        "fields": {
+            "name": "Undead"
+        }
+    },
+    {
+        "model": "dragonslayerapi.races",
+        "pk": 8,
+        "fields": {
+            "name": "Tauren"
+        }
+    }
+]
