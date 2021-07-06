@@ -1,0 +1,23 @@
+[
+    {
+        "model": "dragonslayerapi.statuses",
+        "pk": 1,
+        "fields": {
+            "name": "Attending"
+        }
+    },
+    {
+        "model": "dragonslayerapi.statuses",
+        "pk": 2,
+        "fields": {
+            "name": "Tentative"
+        }
+    },
+    {
+        "model": "dragonslayerapi.statuses",
+        "pk": 3,
+        "fields": {
+            "name": "Not Attending"
+        }
+    }
+]

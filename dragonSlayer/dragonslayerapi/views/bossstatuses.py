@@ -2,7 +2,7 @@ from rest_framework.response import Response
 from rest_framework.viewsets import ViewSet
 from dragonslayerapi.models import BossStatuses
 from rest_framework import serializers
-from django.http.response import HttpResponseServerError
+
 
 
 class BossStatusViewSet(ViewSet):

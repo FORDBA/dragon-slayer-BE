@@ -7,3 +7,4 @@ from .professions import ProfessionViewSet
 from .races import RaceViewSet
 from .ranks import RankViewSet
 from .roles import RoleViewSet
+from .statuses import StatusViewSet
